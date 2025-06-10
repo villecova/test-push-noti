@@ -1,0 +1,20 @@
+{
+  "name": "watering-reminder-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@angular/common": "^17.0.0",
+    "@angular/core": "^17.0.0",
+    "@angular/forms": "^17.0.0",
+    "@angular/platform-browser": "^17.0.0",
+    "@ionic/angular": "^7.0.0",
+    "@angular/fire": "^17.0.0",
+    "firebase": "^9.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.0"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
